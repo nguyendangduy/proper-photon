@@ -23,6 +23,8 @@ h1 {
 
 nav {
   text-align: center;
+  display: flex;
+  align-items: center;
 }
 
 nav a {
